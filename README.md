@@ -15,6 +15,6 @@
 * zapolnite papky cats fotkami kotov i dogs sobakami
 * zapystite
 
-  #dop fail
+  # dop fail
   * picun F6.py:
   * Etot fail evlaeca obycheniem neironki
